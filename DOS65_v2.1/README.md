@@ -1,15 +1,20 @@
 # DOS/65
-This is a full-fledged CP/M work-alike for the 6502 developed by Rich Leary.  He has made the software and documentation available for individual (hobbyist) use.  The software is still commercial software, though, so please contact Richard Leary if you wish to distribute the software (see license info below).
+This is a full-fledged CP/M work-alike for the 6502 developed by Rich Leary. He
+has made the software and documentation available for individual (hobbyist) use.
+
+See the OSIWeb forum thread here: http://osiweb.org/osiforum/viewtopic.php?f=4&t=235
+
+The software is still commercial software, though, so please contact Richard
+Leary if you wish to distribute the software (see license info below).
 
 ## Contents
 The contents of this archive were posted to the OSIWeb forum by Rich Leary in 2015.
+Currently, this archive does not contain a bootable image, but does contain the source and documentation required to create a bootable image.
 
 ### [Documentation](Documentation)
-This is the DOS/65 v2.1 system documentation posted by Rich Leary.
 
-Currently, this repository does not contain a bootable image. This directory
-does contain all the manuals, as well as some DOS/65 utilities to read data and
-directories from OS65-D disks.
+This directory does contain all the manuals, as well as some DOS/65 utilities to
+read data and directories from OS65-D disks.
 
 ### [Source](Source)
 This is the 6502 assembly code for v2.1
